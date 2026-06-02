@@ -185,10 +185,10 @@ p {
   border-radius: 5px;
 }
 
-.case-first-text div:first-child {
+/*.case-first-text div:first-child {
   background-color: var(--first-category-color);
   color: var(--first-btn-color);
-}
+}*/
 
 .case-first-image,
 .case-second-image,
@@ -202,19 +202,19 @@ p {
   background-color: var(--second-btn-color);
 }
 
-.case-second-text div:nth-child(1) {
-  background-color: var(--second-category-color);
-  color: var(--second-btn-color);
-}
+/*.case-second-text div:nth-child(1) {*/
+/*  background-color: var(--second-category-color);*/
+/*  color: var(--second-btn-color);*/
+/*}*/
 
 .case-third-btn button {
   background-color: var(--third-btn-color);
 }
 
-.case-third-category {
-  background-color: var(--third-category-color);
-  color: var(--third-btn-color);
-}
+/*.case-third-category {*/
+/*  background-color: var(--third-category-color);*/
+/*  color: var(--third-btn-color);*/
+/*}*/
 
 .testimonial {
   margin-top: 10%;
