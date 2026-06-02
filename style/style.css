@@ -1,18 +1,18 @@
 :root {
   --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  --header-bg-color: rgba(8, 8, 8, 1);
-  --main-text-color: rgba(156, 156, 156, 1);
-  --header-nav-bg-color: rgba(27, 27, 27, 1);
-  --name-text-color: white;
-  --started-btn-color: rgba(63, 142, 0, 1);
-  --started-btn-shadow: rgba(98, 186, 27, 1);
-  --first-btn-color: rgba(255, 162, 23, 1);
-  --first-category-color: rgba(255, 246, 233, 1);
-  --second-btn-color: rgba(0, 10, 255, 1);
-  --second-category-color: rgba(208, 230, 255, 1);
-  --third-btn-color: rgba(42, 176, 144, 1);
-  --third-category-color: rgba(224, 255, 248, 1);
+  --header-bg-color: rgb(32, 32, 48);
+  --main-text-color: rgb(173, 160, 166);
+  --header-nav-bg-color: rgb(32, 32, 48);
+  --name-text-color: rgb(173, 160, 166);
+  --started-btn-color: rgb(56, 108, 11);
+  --started-btn-shadow: rgb(155, 201, 149);
+  --first-btn-color: rgb(56, 108, 11);
+  --first-category-color: rgb(32, 32, 48);
+  --second-btn-color: rgb(56, 108, 11);
+  --second-category-color: rgb(32, 32, 48);
+  --third-btn-color: rgb(56, 108, 11);
+  --third-category-color: rgb(32, 32, 48);
 }
 
 body,
