@@ -101,7 +101,6 @@ p {
   border: none;
   padding: 3% 15%;
   border-radius: 5px;
-  box-shadow: 0px 2.5px 15px 0px var(--started-btn-shadow);
   font-weight: bold;
   font-size: 1em;
 }
