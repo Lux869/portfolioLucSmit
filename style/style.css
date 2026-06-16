@@ -1,10 +1,10 @@
 :root {
   --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  --header-bg-color: rgb(32, 32, 48);
-  --main-text-color: rgb(245, 211, 200);
-  --header-nav-bg-color: rgb(32, 32, 48);
-  --name-text-color: rgb(245, 211, 200);
+  --header-bg-color: rgb(44, 66, 63);
+  --main-text-color: rgb(81, 41, 30);
+  /*--header-nav-bg-color: rgb(248, 177, 9);*/
+  --name-text-color: rgb(81, 41, 30);
   --started-btn-color: rgb(56, 108, 11);
   --started-btn-shadow: rgb(155, 201, 149);
   --first-btn-color: rgb(56, 108, 11);
@@ -35,7 +35,8 @@ p {
 }
 
 .header {
-  background-color: var(--header-bg-color);
+  background-image :url("../image/warm dinges.jpg");
+    background-size: cover;
   display: grid;
   grid-template-rows: 0.5fr 2fr 1fr;
   grid-template-columns: 2fr 1fr;
@@ -317,7 +318,6 @@ p {
   padding: 2% 8%;
   border-radius: 5px;
   font-weight: bold;
-  box-shadow: 0px 5px 20px 0px var(--started-btn-shadow);
 }
 
 .contact {
