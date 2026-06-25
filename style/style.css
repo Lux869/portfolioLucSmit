@@ -35,7 +35,7 @@ p {
 }
 
 .header {
-  background-image :url("../image/warm dinges.jpg");
+  background-image: url("../image/warm dinges.png");
     background-size: cover;
   display: grid;
   grid-template-rows: 0.5fr 2fr 1fr;
@@ -133,11 +133,8 @@ p {
   gap: 2rem;
 }
 
-.company-logo-container div {
-  background-color: var(--header-nav-bg-color);
-  padding: 3rem;
-  margin-top: 2rem;
-  border-radius: 5px;
+.case-studies {
+    background-color: #270900;
 }
 
 .case-work-container {
